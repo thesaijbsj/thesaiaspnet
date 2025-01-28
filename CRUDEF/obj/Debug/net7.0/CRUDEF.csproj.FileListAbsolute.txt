@@ -1,0 +1,150 @@
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.csproj.AssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\CRUDEF.staticwebassets.runtime.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\CRUDEF.exe
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\CRUDEF.deps.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\CRUDEF.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\CRUDEF.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\CRUDEF.pdb
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Azure.Core.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Azure.Identity.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Humanizer.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.CodeDom.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.CRUDEF.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.build.CRUDEF.props
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CRUDEF.props
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CRUDEF.props
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\staticwebassets.build.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\staticwebassets.development.json
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\scopedcss\bundle\CRUDEF.styles.css
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\scopedcss\projectbundle\CRUDEF.bundle.scp.css
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\refint\CRUDEF.dll
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.pdb
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\CRUDEF.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\new\c-sharpcorner CRUD Operations\CRUDEF\CRUDEF\obj\Debug\net7.0\ref\CRUDEF.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\appsettings.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\CRUDEF.staticwebassets.runtime.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\CRUDEF.exe
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\CRUDEF.deps.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\CRUDEF.runtimeconfig.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\CRUDEF.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\CRUDEF.pdb
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Azure.Core.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Azure.Identity.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Humanizer.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\Mono.TextTemplating.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.CodeDom.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.Memory.Data.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.Runtime.Caching.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.csproj.AssemblyReference.cache
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.AssemblyInfoInputs.cache
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.AssemblyInfo.cs
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.csproj.CoreCompileInputs.cache
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.RazorAssemblyInfo.cache
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.RazorAssemblyInfo.cs
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.CRUDEF.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.build.CRUDEF.props
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CRUDEF.props
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CRUDEF.props
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\scopedcss\bundle\CRUDEF.styles.css
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\scopedcss\projectbundle\CRUDEF.bundle.scp.css
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.csproj.CopyComplete
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\refint\CRUDEF.dll
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.pdb
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\CRUDEF.genruntimeconfig.cache
+c:\Users\thesai jebas\aspnetcrud\CRUDEF\obj\Debug\net7.0\ref\CRUDEF.dll
